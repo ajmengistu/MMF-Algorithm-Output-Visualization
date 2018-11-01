@@ -7,3 +7,7 @@ the visualization of MMF algorithm output that was developed at the University o
 <br>
 <br>
 [Link](https://bl.ocks.org/ajmistu) to all other visuazliations implemented.
+
+<p align="center">
+  <img src="https://github.com/ajmengistu/MMF-Algorithm-Output-Visualization/blob/master/sample.png">
+<p>
