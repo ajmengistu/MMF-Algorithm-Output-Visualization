@@ -15,4 +15,6 @@ the visualization of MMF algorithm output that was developed at the University o
   <br>
   
   <img src="https://github.com/ajmengistu/MMF-Algorithm-Output-Visualization/blob/master/sample.png">
+  <br>
+  One of the several visualizations implemented to best represent MMF algorithm output.
 <p>
