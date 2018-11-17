@@ -28,4 +28,4 @@ the visualization of MMF algorithm output that was developed at the University o
 
 <p>
   Run dataset into MMF algorithm. Send output of the relationships between features into the d3js visualizer.
-  </p>
+ </p>
