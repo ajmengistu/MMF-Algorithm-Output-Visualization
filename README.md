@@ -23,3 +23,9 @@ the visualization of MMF algorithm output that was developed at the University o
   <br>
   One of the several visualizations implemented to best represent MMF algorithm output.
 <p>
+
+# Usage
+
+<p>
+  Run dataset into MMF algorithm. Send output of the relationships between features into the d3js visualizer.
+  </p>
