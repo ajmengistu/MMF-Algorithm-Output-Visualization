@@ -14,7 +14,7 @@ the visualization of MMF algorithm output that was developed at the University o
   
  <br>
   http://pages.cs.wisc.edu/~vamsi/projects/incmmf.html for further information from the lead research author V. K. Ithapu, <i>Decoding   the Deep: Exploring Class Hierarchies of Deep Representations using Multiresolution<i>.
-  <br>
+  <br> 
   
   <img src="https://github.com/ajmengistu/MMF-Algorithm-Output-Visualization/blob/master/sample.png">
   
